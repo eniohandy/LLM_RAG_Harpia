@@ -2,10 +2,10 @@
 
 
 
-├── basic/                 # ifda
-├── metrics/               # d
-├── data/              # dad
-├── metrics_via_ollama/                  # asf
+├── basic/                 # ifda   
+├── metrics/               # d   
+├── data/              # dad   
+├── metrics_via_ollama/                  # asf   
 ├── /                # ds
 ├──             # ds
 ├──                # ddf
