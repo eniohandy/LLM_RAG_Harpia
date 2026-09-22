@@ -9,4 +9,4 @@ curl -N http://$OLLAMA_SERVER2:11434/v1/chat/completions \
   ],
   "temperature": 0.0,
   "seed": 17
-}'
+}' 
