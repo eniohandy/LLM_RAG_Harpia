@@ -1,0 +1,5 @@
+A média é a soma aritimetica das provas.
+Serão realizadas 3 provas.
+Há um ponto adicional na entrega dos trabalhos.
+Há três trabalhos, cada um correspondendo a uma prova.
+A média necessária para passar é 5.
